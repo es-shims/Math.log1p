@@ -7,8 +7,10 @@
 		"id-length": 0,
 		"new-cap": [2, {
 			"capIsNewExceptions": [
+				"ToNumber"
 			],
 		}],
+		"no-magic-numbers": 0,
 	},
 
 	"overrides": [
