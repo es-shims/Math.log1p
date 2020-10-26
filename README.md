@@ -1,7 +1,5 @@
 # Math.log1p <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
-> ⚠️ This package is not published on npm yet
-
 [![Build Status][travis-svg]][travis-url]
 [![dependency status][deps-svg]][deps-url]
 [![dev dependency status][dev-deps-svg]][dev-deps-url]
