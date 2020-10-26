@@ -1,10 +1,10 @@
 'use strict';
 
 var ToNumber = require('es-abstract/2020/ToNumber');
-var callBind = require('es-abstract/helpers/callBind');
+var GetIntrinsic = require('es-abstract/GetIntrinsic');
 var numberIsNan = require('es-abstract/helpers/isNaN');
 
-var $log = callBind('Math.log');
+var $log = GetIntrinsic('%Math.log%');
 
 module.exports = function log1p(value) {
 	var x = ToNumber(value);
