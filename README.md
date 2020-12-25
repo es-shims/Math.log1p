@@ -1,6 +1,5 @@
 # Math.log1p <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
-[![Build Status][travis-svg]][travis-url]
 [![dependency status][deps-svg]][deps-url]
 [![dev dependency status][dev-deps-svg]][dev-deps-url]
 [![License][license-image]][license-url]
@@ -34,8 +33,6 @@ Simply clone the repo, `npm install`, and run `npm test`
 
 [package-url]: https://npmjs.org/package/math.log1p
 [npm-version-svg]: https://versionbadg.es/es-shims/Math.log1p.svg
-[travis-svg]: https://travis-ci.org/es-shims/Math.log1p.svg
-[travis-url]: https://travis-ci.org/es-shims/Math.log1p
 [deps-svg]: https://david-dm.org/es-shims/Math.log1p.svg
 [deps-url]: https://david-dm.org/es-shims/Math.log1p
 [dev-deps-svg]: https://david-dm.org/es-shims/Math.log1p/dev-status.svg
