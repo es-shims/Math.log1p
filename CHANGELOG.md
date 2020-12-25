@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.1](https://github.com/es-shims/Math.log1p/compare/v1.0.0...v1.0.1) - 2020-12-24
+
+### Commits
+
+- [Tests] migrate tests to Github Actions [`e68b01b`](https://github.com/es-shims/Math.log1p/commit/e68b01ba40b9998b4cf67321fdb30f12ca4867b2)
+- [meta] do not publish github action workflow files [`8fc1572`](https://github.com/es-shims/Math.log1p/commit/8fc157255f73822481f4cf3101e85a4f19a22934)
+- [Tests] run `nyc` on all tests; use `tape` runner [`c43ddcc`](https://github.com/es-shims/Math.log1p/commit/c43ddcc7d70ac7f494d2e8e30f412e62d3741db1)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `aud`, `functions-have-names`, `has-strict-mode`, `object-is` [`e3a892e`](https://github.com/es-shims/Math.log1p/commit/e3a892eb93215244036c1993daa6bf34a60703f3)
+- [Refactor] use `call-bind` and `get-intrinsic` where applicable [`b3b0d8c`](https://github.com/es-shims/Math.log1p/commit/b3b0d8ccb01a260dcc9af54b7008cff1ba3d6708)
+- [readme] remove travis badge [`553b47d`](https://github.com/es-shims/Math.log1p/commit/553b47dc976f935866f28ba8d08c1754b49859bf)
+- [actions] remove unneeded env [`f2f93bc`](https://github.com/es-shims/Math.log1p/commit/f2f93bcd052a7a49e99ce7155dac44fea0c179d5)
+
 ## v1.0.0 - 2020-10-25
 
 ### Commits
