@@ -22,12 +22,13 @@ npm install --save math.log1p
 ## Usage/Examples
 
 ```js
+var assert = require('assert');
 var x = 0.007;
 
 // Compute log(1 + x)
-console.log(Math.log1p(x)); // 0.006975613736425242
+assert.equal(Math.log1p(x), 0.006975613736425242);
 
-console.log(Math.log1p(6.3890560989306495)); // 2
+assert.equal(Math.log1p(6.3890560989306495), 2);
 ```
 
 ## Tests

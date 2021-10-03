@@ -42,7 +42,9 @@
 	"scripts": {
 		"prepublish": "safe-publish-latest",
 		"pretest": "npm run lint",
+		"prelint": "es-shim-api --bound",
 		"lint": "eslint --ext=js,mjs .",
+		"postlint": "evalmd README.md",
 		"tests-only": "nyc tape 'test/**/*.js'",
 		"tests-esm": "nyc node test/index.mjs",
 		"test": "npm run tests-only && npm run tests-esm",
@@ -74,10 +76,12 @@
 	},
 	"homepage": "https://github.com/es-shims/Math.log1p#readme",
 	"devDependencies": {
+		"@es-shims/api": "^2.2.1",
 		"@ljharb/eslint-config": "^17.3.0",
 		"aud": "^1.1.3",
 		"auto-changelog": "^2.2.1",
 		"eslint": "^7.16.0",
+		"evalmd": "^0.0.19",
 		"functions-have-names": "^1.2.2",
 		"has-strict-mode": "^1.0.1",
 		"nyc": "^10.3.2",
