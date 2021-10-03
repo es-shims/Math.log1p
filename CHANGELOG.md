@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.2](https://github.com/es-shims/Math.log1p/compare/v1.0.1...v1.0.2) - 2021-10-02
+
+### Commits
+
+- [actions] update workflows [`a0b5793`](https://github.com/es-shims/Math.log1p/commit/a0b5793588c09857a6ea3e208e3097077f0b9c58)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `aud`, `auto-changelog`, `object-is`, `tape` [`a3f527b`](https://github.com/es-shims/Math.log1p/commit/a3f527bae7877fafe5085ee9387a47076533987c)
+- [Tests] add `@es-shims/api` and `evalmd` [`0922ae9`](https://github.com/es-shims/Math.log1p/commit/0922ae978948790ff1ab57f53894c6f987c1b2c6)
+- [Deps] update `call-bind`, `es-abstract`, `get-intrinsic` [`96923e5`](https://github.com/es-shims/Math.log1p/commit/96923e5a517b64d0c78ed44d81d895dbbf225ccf)
+- [readme] add github actions/codecov badges [`a0b4b99`](https://github.com/es-shims/Math.log1p/commit/a0b4b991f3841fef078e08130250f3a2b34afe81)
+
 ## [v1.0.1](https://github.com/es-shims/Math.log1p/compare/v1.0.0...v1.0.1) - 2020-12-24
 
 ### Commits
