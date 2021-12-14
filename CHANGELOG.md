@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.3](https://github.com/es-shims/Math.log1p/compare/v1.0.2...v1.0.3) - 2021-12-14
+
+### Commits
+
+- [actions] reuse common workflows [`17354a9`](https://github.com/es-shims/Math.log1p/commit/17354a947b969582d8f3675327a57748978ca974)
+- [Refactor] remove unnecessary ESM files [`ae5728c`](https://github.com/es-shims/Math.log1p/commit/ae5728cb5eee442134f1e802bfdf5421148d9d64)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `@es-shims/api`, `safe-publish-latest`, `tape` [`9e0d461`](https://github.com/es-shims/Math.log1p/commit/9e0d46125617f5b7bb1040e7dac35333c0a8f5e5)
+- [actions] update codecov uploader [`e760534`](https://github.com/es-shims/Math.log1p/commit/e76053447e20506f91d9baa16dfe13366d6fe154)
+- [Deps] update `es-abstract` [`e37189e`](https://github.com/es-shims/Math.log1p/commit/e37189ebffafd9de4b9acc882e9d16fda64b06a9)
+
 ## [v1.0.2](https://github.com/es-shims/Math.log1p/compare/v1.0.1...v1.0.2) - 2021-10-02
 
 ### Commits
