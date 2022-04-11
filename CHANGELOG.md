@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.4](https://github.com/es-shims/Math.log1p/compare/v1.0.3...v1.0.4) - 2022-04-10
+
+### Commits
+
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `aud`, `auto-changelog`, `tape` [`e26c1ad`](https://github.com/es-shims/Math.log1p/commit/e26c1ad050bf65a1b70338e92e286bc6bc0d6e80)
+- [Fix] avoid identifier `native`; it breaks node 0.4 [`5fb7003`](https://github.com/es-shims/Math.log1p/commit/5fb7003867fe94c1f7fa0b45c35db7f746bf3a8c)
+- [Deps] update `es-abstract` [`f328acd`](https://github.com/es-shims/Math.log1p/commit/f328acd9335438d406d9381595c84f88fa54b137)
+
 ## [v1.0.3](https://github.com/es-shims/Math.log1p/compare/v1.0.2...v1.0.3) - 2021-12-14
 
 ### Commits
