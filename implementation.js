@@ -1,6 +1,6 @@
 'use strict';
 
-var ToNumber = require('es-abstract/2021/ToNumber');
+var ToNumber = require('es-abstract/2022/ToNumber');
 var GetIntrinsic = require('get-intrinsic');
 var numberIsNan = require('es-abstract/helpers/isNaN');
 
