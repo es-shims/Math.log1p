@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.5](https://github.com/es-shims/Math.log1p/compare/v1.0.4...v1.0.5) - 2022-11-04
+
+### Commits
+
+- [meta] use `npmignore` to autogenerate an npmignore file [`9516913`](https://github.com/es-shims/Math.log1p/commit/951691387c72608c6c3de97f06a1a2247ccfec50)
+- [actions] update rebase action to use reusable workflow [`998175c`](https://github.com/es-shims/Math.log1p/commit/998175cad8a70e56756bf33c1dd799668e21f337)
+- [Deps] update `define-properties`, `es-abstract`, `get-intrinsic` [`62b935d`](https://github.com/es-shims/Math.log1p/commit/62b935d659d34bbced0aca7b4f015746eaf64895)
+- [Dev Deps] update `aud`, `functions-have-names`, `tape` [`9f78c95`](https://github.com/es-shims/Math.log1p/commit/9f78c9533c5e8a4c8743e390c7824dc8f483eabd)
+
 ## [v1.0.4](https://github.com/es-shims/Math.log1p/compare/v1.0.3...v1.0.4) - 2022-04-10
 
 ### Commits
