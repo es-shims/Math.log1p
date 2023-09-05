@@ -1,8 +1,9 @@
 'use strict';
 
-var ToNumber = require('es-abstract/2022/ToNumber');
-var GetIntrinsic = require('get-intrinsic');
+var ToNumber = require('es-abstract/2023/ToNumber');
 var numberIsNan = require('es-abstract/helpers/isNaN');
+
+var GetIntrinsic = require('get-intrinsic');
 
 var $log = GetIntrinsic('%Math.log%');
 
