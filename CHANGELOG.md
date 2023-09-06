@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.6](https://github.com/es-shims/Math.log1p/compare/v1.0.5...v1.0.6) - 2023-09-05
+
+### Commits
+
+- [Deps] update `define-properties`, `es-abstract`, `get-intrinsic` [`99e03ff`](https://github.com/es-shims/Math.log1p/commit/99e03ff4742815ba3c591bd1dbfa7f246e5e124a)
+- [Dev Deps] update `@es-shims/api`, `@ljharb/eslint-config`, `aud`, `tape` [`778496d`](https://github.com/es-shims/Math.log1p/commit/778496d6d5f0d1856141428482d255fd6fbcc6a1)
+
 ## [v1.0.5](https://github.com/es-shims/Math.log1p/compare/v1.0.4...v1.0.5) - 2022-11-04
 
 ### Commits
